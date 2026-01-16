@@ -1,0 +1,17 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: westudy
+---
+apiVersion: v1
+kind: Secret
+metadata:
+  name: westudy-secrets
+  namespace: westudy
+type: Opaque
+data:
+  # Base64 encoded values
+  # 'supersecret'
+  JWT_SECRET: c3VwZXJzZWNyZXQ=
+  # OPENAI_API_KEY: <base64-encoded-key>
+  OPENAI_API_KEY: YOUR_BASE64_ENCODED_KEY_HERE

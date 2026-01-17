@@ -5,7 +5,7 @@
 
 ## 🏛️ PART 1: THE VISION & PEDAGOGICAL BEDROCK
 
-### 1.1 The Recursive Tutoring Paradigm (The Feynman Protocol)
+### 1.1 The Recursive Tutoring Paradigm
 WeStudy is not a standard learning management system. It is a **recursive intelligence platform**. Traditional education is built on the **Consumption Model** (Read -> Recall -> Test). WeStudy replaces this with the **Tutoring Model**:
 1. **Synthesize**: The user must digest complex data.
 2. **Simplify**: Transform jargon into plain language.

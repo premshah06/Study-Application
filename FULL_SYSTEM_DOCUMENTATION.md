@@ -1,4 +1,4 @@
-# WeStudy: The Technical Encyclopedia (The Magnus Opus Edition)
+# Study Application: The Technical Encyclopedia (The Magnus Opus Edition)
 ## A 360-Degree Comprehensive Architectural, Engineering & Pedagogical Compendium
 
 ---
